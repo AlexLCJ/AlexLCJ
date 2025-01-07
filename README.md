@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexLCJ
-- 👀 I’m interested in AI learing and Big Data
-- 🌱 I’m currently learning Deep Learning and Image Cognition
+- 👀 I’m interested in AI and Big Data
+- 🌱 I’m currently learning Data Mining, but used to learn Image Cognition
 - 💞️ I’m looking to collaborate on many kinds of fields hahahahaha
 - 📫 How to reach me : send emils
 - 😄 Pronouns: 
